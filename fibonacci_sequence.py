@@ -1,7 +1,3 @@
-import time
-import matplotlib.pyplot as plt
-import numpy as np
-
 def fib(n):
     if n == 0:
         return 0
