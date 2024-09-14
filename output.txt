@@ -1,0 +1,13 @@
+fibonacci_sequence.py
+
+5
+
+merge_sorted_arrays.py
+
+Merged array 1: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+Merged array 2: [1, 2, 3, 4, 7, 8, 9, 10, 11]
+
+remove_duplicates.py
+
+[2]
+[1, 2, 3, 4, 5]
